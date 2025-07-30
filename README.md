@@ -1,7 +1,7 @@
 # Apple's Allowed Autofill Domains
 
 [![Build Status](https://img.shields.io/github/workflow/status/JMcrafter26/apple-autofill-domains/update)](https://github.com/JMcrafter26/apple-autofill-domains/actions/workflows/update.yaml)
-[![Last check: Tue Jul 29 23:23:15 UTC 2025](https://img.shields.io/date/1753831395?label=last%20check)](https://github.com/b0o/apple-autofill-domains/actions/runs/16609597383)
+[![Last check: Wed Jul 30 02:02:54 UTC 2025](https://img.shields.io/date/1753840974?label=last%20check)](https://github.com/b0o/apple-autofill-domains/actions/runs/16611666876)
 [![Last change: Mon Apr  4 10:37:28 UTC 2022](https://img.shields.io/date/1649068648?color=orange&label=last%20change)](https://github.com/b0o/apple-autofill-domains/commit/3a3896a63f63158d88c794843b20d0990b0fd0bd)
 
 Apple serves a JSON file containing a list of 250,000 domains at the `https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url` endpoint. This list appears to be used by the Safari web browser to auto-complete domains typed into the address bar.
