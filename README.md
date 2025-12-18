@@ -1,8 +1,8 @@
 # Apple's Allowed Autofill Domains
 
 > [!IMPORTANT]
-> There was no change in 4 years, so I will also archive this
-
+[![Last check: Thu Dec 18 19:40:10 UTC 2025](https://img.shields.io/date/1766086810?label=last%20check)](https://github.com/b0o/apple-autofill-domains/actions/runs/20349141081)
+[![Last change: Mon Apr  4 10:37:28 UTC 2022](https://img.shields.io/date/1649068648?color=orange&label=last%20change)](https://github.com/b0o/apple-autofill-domains/commit/3a3896a63f63158d88c794843b20d0990b0fd0bd)
 [![Build Status](https://img.shields.io/github/workflow/status/JMcrafter26/apple-autofill-domains/update)](https://github.com/JMcrafter26/apple-autofill-domains/actions/workflows/update.yaml)
 [![Last check: Thu Dec 18 19:18:54 UTC 2025](https://img.shields.io/date/1766085534?label=last%20check)](https://github.com/b0o/apple-autofill-domains/actions/runs/20348532244)
 [![Last change: Mon Apr  4 10:37:28 UTC 2022](https://img.shields.io/date/1649068648?color=orange&label=last%20change)](https://github.com/b0o/apple-autofill-domains/commit/3a3896a63f63158d88c794843b20d0990b0fd0bd)
